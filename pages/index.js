@@ -54,7 +54,7 @@ export default function Home() {
         >
           <Grid container item justifyContent="center">
             <Image
-              alt="Hector Guzman"
+              alt="Lucas Franco Aguirre"
               src="/me.png"
               width="200px"
               height="200px"
@@ -62,24 +62,24 @@ export default function Home() {
           </Grid>
           <Grid container item justifyContent="center">
             <Typography variant="h1" className={classes.title} gutterBottom>
-              Hector Guzman
+              Lucas Franco Aguirre
             </Typography>
           </Grid>
           <Grid container item justifyContent="center">
             <Typography variant="h5" className={classes.subs}>
-              Solutions Architect & Fullstack Dev
+              Frontend Dev
             </Typography>
           </Grid>
           <Grid container item justifyContent="center">
             <Link
-              href="https://github.com/hrg81dev"
+              href="https://github.com/lucassaguirre"
               style={{ color: 'inherit', padding: '5px' }}
               target="_blank"
             >
               <GitHub style={{ fontSize: '30px ' }} />
             </Link>
             <Link
-              href="https://www.linkedin.com/in/hguzman/"
+              href="https://www.linkedin.com/in/lucas-franco-aguirre-a39007238/"
               style={{ color: 'inherit', padding: '5px' }}
               target="_blank"
             >

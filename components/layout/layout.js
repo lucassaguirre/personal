@@ -48,7 +48,7 @@ export default function Layout({ children }) {
   return (
     <div>
       <Head>
-        <title>Hector Guzman | Personal Website</title>
+        <title>Lucas Franco Aguirre | Personal Website</title>
       </Head>
       <ThemeProvider theme={theme}>
         <CssBaseline />
